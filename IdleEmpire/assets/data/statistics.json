@@ -1,0 +1,17 @@
+{
+    "buildings": {
+        "mine": {
+            "name": "Mine",
+            "cost": 100,
+            "coinsPerSecond": 5,
+            "level": 1
+        },
+
+        "factory": {
+            "name": "Factory",
+            "cost": 1000,
+            "coinsPerSecond": 50,
+            "level": 1
+        }
+    }
+}
